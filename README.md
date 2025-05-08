@@ -23,11 +23,8 @@ If you have any question or something, feel free to reach out me anytime via tel
 
 
 # 👀Usage
-1. Clone the repository
+1. Clone this repository
 
-    ```
-    git clone https://github.com/shiny-lua/pumpfun-sniper.git
-    cd pumpfun-sniper
     ```
 2. Install dependencies
 
